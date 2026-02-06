@@ -22,15 +22,15 @@
 * Aritmética Básica: Soma, subtração, multiplicação, divisão, frações e porcentagens.
 
 ## Atividades:
-* [Atividade 01 (ATIV-01)](https://github.com/lucasdechiara/UNIVESP-PI-Sistema_Gerenciador_de_Atrasos/fork): Avaliar o conhecimento sobre conceitos básicos de machine learning.
+* [Atividade 01 (ATIV-01)](https://github.com/lucasdechiara/Avanti-Bootcamp-Machine_Learning-2026.1/tree/main/Atividade_01): Avaliar o conhecimento sobre conceitos básicos de machine learning.
 
-* [Atividade 02 (ATIV-02)](https://github.com/lucasdechiara/UNIVESP-PI-Sistema_Gerenciador_de_Atrasos/fork):Avaliar desempenho sobre conhecimentos básicos de programação em linguagem python e visualização e análise de dados.
+* [Atividade 02 (ATIV-02)](https://github.com/lucasdechiara/Avanti-Bootcamp-Machine_Learning-2026.1/tree/main/Atividade_02):Avaliar desempenho sobre conhecimentos básicos de programação em linguagem python e visualização e análise de dados.
 
-* [Atividade 03 (ATIV-03)](https://github.com/lucasdechiara/UNIVESP-PI-Sistema_Gerenciador_de_Atrasos/fork): Avaliar o aprendizado sobre o módulo em estudo na semana.
+* [Atividade 03 (ATIV-03)](https://github.com/lucasdechiara/Avanti-Bootcamp-Machine_Learning-2026.1/tree/main/Atividade_03): Avaliar o aprendizado sobre o módulo em estudo na semana.
 
-* [Atividade 04 (ATIV-04)](https://github.com/lucasdechiara/UNIVESP-PI-Sistema_Gerenciador_de_Atrasos/fork): Projeto de classificação/segmentação de imagens.
+* [Atividade 04 (ATIV-04)](https://github.com/lucasdechiara/Avanti-Bootcamp-Machine_Learning-2026.1/tree/main/Atividade_04): Projeto de classificação/segmentação de imagens.
 
 ## Autorização de Uso
 ### 1. Salve uma cópia da aplicação para desenvolver as suas melhorias!
-<a href="https://github.com/lucasdechiara/UNIVESP-PI-Sistema_Gerenciador_de_Atrasos/fork">
+<a href="https://github.com/lucasdechiara/Avanti-Bootcamp-Machine_Learning-2026.1/fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
